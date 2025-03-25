@@ -1,5 +1,3 @@
-# README
-
 ## Hello there!
 I’m Yan-Ru Liu or Andrew Liu, currently pursing master’s degree at [NCU International Graduate Program in Artificial Intelligence (Computer Science) ](https://igpai.ncu.edu.tw/).
 
